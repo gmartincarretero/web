@@ -1,0 +1,33 @@
+.carousel-caption{
+    color: white;
+}
+
+p.cbar{
+    display: inline;
+}
+
+.container#contact-bar{
+    display: grid;
+    width: 100%;
+    column-width: 100%;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column: span;
+    justify-content: space-evenly;
+}
+
+.resume{
+    margin: 0px;
+    padding: 0px;
+}
+
+.card{
+    padding: 0px;
+    margin: 0px;
+    background-color: #2b3035;
+    border: 0px;
+}
+
+#exp{
+    display: none;
+}
