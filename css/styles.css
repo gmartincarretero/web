@@ -31,3 +31,8 @@ p.cbar{
 #exp{
     display: none;
 }
+
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+}
